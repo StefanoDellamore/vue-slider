@@ -1,1 +1,1 @@
-# vue-slider
+# template-repository
